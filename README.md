@@ -1,2 +1,2 @@
-# whichOneIsTheBestInShortAlgorithm
-Which One Is The Best In Short Algorithm
+# whichOneIsTheBestInSortAlgorithm
+Which One Is The Best In Sort Algorithm
